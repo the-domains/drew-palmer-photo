@@ -1,8 +1,8 @@
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -25,16 +25,16 @@ color:
   brandStrength: 0.5053763
   lightness: 0.4390681
   brandColors:
-    - '#161620'
-    - '#E0E9D6'
-    - '#B2BC8A'
-    - '#406A21'
-    - '#DBFC6A'
+    - '#0D0C0A'
+    - '#797C8B'
+    - '#9D9CA2'
+    - '#F6A263'
+    - '#5D5A57'
   rhythmicContrast: 0.3924731
-typography_spectrum: 0.3727598
+typography_spectrum: 0.1218638
 layout_spectrum: 0.3064516
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Drew Palmer Photo
