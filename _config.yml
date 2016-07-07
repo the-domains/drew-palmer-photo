@@ -1,3 +1,4 @@
+favicon: null
 cta:
   bucket: null
   version: null
@@ -12,16 +13,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0
-  brandStrength: 0
+  brandStrength: 0.5053763
   lightness: 0.4390681
   brandColors:
     - '#161620'
@@ -36,5 +37,4 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Drew Palmer Photo
