@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Drew Palmer Photo]]></title>
+        <description><![CDATA[Drew Palmer Photo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 19:01:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good Morning ]]></title>
+            <description><![CDATA[<article><h1>Good Morning </h1><p>Playing in the Rain...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab9e75b9-f4c6-43f1-8c03-761db016ca43.jpg"></article>]]></description>
+            <link>undefinedgood-morning/index.html</link>
+            <guid isPermaLink="false">bb5f007d-80ad-4f0f-98fa-c613dcac7401</guid>
+            <pubDate>Thu, 07 Jul 2016 19:01:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
